@@ -1,2 +1,2 @@
-## 🕸️ Jonatas | Backend Developer 🖤
+## 🕸️ Jonatas | Backend Developer 
 
