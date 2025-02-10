@@ -1,8 +1,20 @@
+<h1><img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px" style="color:white;"/>  Olá! Me chamo Jonatas Freitas</h1> 
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.com/users/788895222024765441) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/jonata-37bb22303/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jonatasaple@gmail.com) 
 
+</p>
+
+<h2> 👨🏻‍💻 &nbsp;About Me </h2>
+
+- 👨🏻‍💻 &nbsp; Tenho experiência em Java e Python, com foco no backend. Sempre estudei por cursos como Udemy ou pela própria documentação das linguagens, o que me deu um bom entendimento em ambas. Conheci a programação em 2023 estudando Python, mas acabei pausando. Voltei em 2024 e, desde então, estou mergulhado no código, apaixonado por essas linguagens. Meu desejo é aprender e compartilhar minhas experiências, por isso iniciei minha faculdade de Engenharia de Software
+- 🚀 &nbsp; Além do fascínio pela tecnologia, tenho um enorme desejo de aprender coisas novas, mesmo que pareçam inúteis. Sou apaixonado por Powerlifting, jogos Soulslike e leitura, especialmente livros realistas e filosóficos. Além disso, considero a família a base do homem. 
+- 🖤 &nbsp; Tenho um grande carinho pelos estudos no desenvolvimento de software e estou sempre em busca de aprendizado contínuo. Atualmente, estou empolgado com a ideia de dominar outros idiomas, pois sei que isso abrirá ainda mais portas para meu crescimento na carreira. Sou movido por desafios e pelo desejo de deixar minha marca no mundo da tecnologia
+
 # 💻 Tech Stack:
+<h3>⚙️ &nbsp;Back-end e banco de dados:</h3>
+<p>
+
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white)
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=devJonatas06&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
