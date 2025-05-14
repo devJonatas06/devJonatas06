@@ -1,4 +1,4 @@
-<h1><img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px" style="color:white;"/>  Olá! Me chamo Jonata Freitas</h1> 
+<h1><img src="https://raw.githubusercontent.com/JonataFreitas/JonataFreitas/master/hi.gif" height="30px" style="color:white;"/>  Olá! Me chamo Jonata Freitas</h1> 
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.com/users/788895222024765441)  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jonatadev)  [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jonatasaple@gmail.com)  
