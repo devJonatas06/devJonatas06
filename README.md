@@ -8,15 +8,25 @@
 
 <h2> 👨🏻‍💻 &nbsp;About Me </h2>
 
-- 👨🏻‍💻 &nbsp; Tenho experiência em Java e Python, com foco no backend. Sempre estudei por cursos como Udemy ou pela própria documentação das linguagens, o que me deu um bom entendimento em ambas. Conheci a programação em 2023 estudando Python, mas acabei pausando. Voltei em 2024 e, desde então, estou mergulhado no código, apaixonado por essas linguagens. Meu desejo é aprender e compartilhar minhas experiências, por isso iniciei minha faculdade de Engenharia de Software
-- 🚀 &nbsp; Além do fascínio pela tecnologia, tenho um enorme desejo de aprender coisas novas, mesmo que pareçam inúteis. Sou apaixonado por Powerlifting, jogos Soulslike e leitura, especialmente livros realistas e filosóficos. Além disso, considero a família a base do homem. 
-- 🖤 &nbsp; Tenho um grande carinho pelos estudos no desenvolvimento de software e estou sempre em busca de aprendizado contínuo. Atualmente, estou empolgado com a ideia de dominar outros idiomas, pois sei que isso abrirá ainda mais portas para meu crescimento na carreira. Sou movido por desafios e pelo desejo de deixar minha marca no mundo da tecnologia
+- 👨🏻‍💻 &nbsp; Ola me Chamo Jonatas,Sou desenvolvedor back-end e graduando em Engenharia de Software. Tenho mais de 2 anos de experiência na área da programação e, ao longo desse tempo, venho me aprofundando principalmente na linguagem Java, com foco em desenvolvimento de APIs robustas e performáticas utilizando Spring Framework.
+
+Também tenho domínio prático com Python e JavaScript, além de conhecimentos em bancos de dados, containers e ferramentas modernas para desenvolvimento backend.
+
+Atualmente, meu foco está no desenvolvimento back-end com Java, mas também tenho interesse em evoluir cada vez mais na área, aprendendo tecnologias como Kafka e AWS, além de aprimorar minhas práticas em arquiteturas distribuídas e microsserviços.
 
 # 💻 Tech Stack:
-<h3>⚙️ &nbsp;Back-end e banco de dados:</h3>
+<h3>⚙️ &nbsp;Java, Python, Frameworks e Banco de Dados:</h3>
 <p>
 
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=coffeescript&logoColor=white)  ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)  ![Spring](https://img.shields.io/badge/Spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)   ![Django](https://img.shields.io/badge/Django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)   ![Flask](https://img.shields.io/badge/Flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)   ![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)  ![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)  ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)  
+
+<h3>⚙️ &nbsp;Front End:</h3>
+<p>
+</p>
+
+    💡 Tenho conhecimentos básicos em front-end, utilizados principalmente em projetos full stack. Meu foco principal está no desenvolvimento back-end.
+<p> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/> <img src="https://img.shields.io/badge/DOM-Manipulation-informational?style=for-the-badge&logo=javascript"/> <img src="https://img.shields.io/badge/JFrame-Java_GUI-green?style=for-the-badge&logo=java&logoColor=white"/> <img src="https://img.shields.io/badge/Swing-Java_Framework-blue?style=for-the-badge&logo=java&logoColor=white"/> </p>
+
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=devJonatas06&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
