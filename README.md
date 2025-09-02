@@ -8,7 +8,7 @@
 
 <h2> 👨🏻‍💻 &nbsp;About Me </h2>
 
-- 👨🏻‍💻 &nbsp; Ola me Chamo Jonatas,Sou desenvolvedor back-end e graduando em Engenharia de Software. Tenho mais de 2 anos de experiência na área da programação e, ao longo desse tempo, venho me aprofundando principalmente na linguagem Java, com foco em desenvolvimento de APIs robustas e performáticas utilizando Spring Framework.
+- 👨🏻‍💻 &nbsp; Ola me Chamo Jonatas,Sou desenvolvedor back-end e graduando em Engenharia de Software. Tenho  2 anos de experiência na área da programação e, ao longo desse tempo, venho me aprofundando principalmente na linguagem Java, com foco em desenvolvimento de APIs robustas e performáticas utilizando Spring Framework.
 
 Também tenho domínio prático com Python e JavaScript, além de conhecimentos em bancos de dados, containers e ferramentas modernas para desenvolvimento backend.
 
