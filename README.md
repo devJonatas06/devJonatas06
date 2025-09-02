@@ -13,12 +13,52 @@
 Também tenho domínio prático com Python e JavaScript, além de conhecimentos em bancos de dados, containers e ferramentas modernas para desenvolvimento backend.
 
 Atualmente, meu foco está no desenvolvimento back-end com Java, mas também tenho interesse em evoluir cada vez mais na área, aprendendo tecnologias como Kafka e AWS, além de aprimorar minhas práticas em arquiteturas distribuídas e microsserviços.
-
 # 💻 Tech Stack:
-<h3>⚙️ &nbsp;Java, Python, Frameworks e Banco de Dados:</h3>
-<p>
 
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=coffeescript&logoColor=white)  ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)  ![Spring](https://img.shields.io/badge/Spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)   ![Django](https://img.shields.io/badge/Django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)   ![Flask](https://img.shields.io/badge/Flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)   ![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)  ![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)  ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)  
+<h3>⚙️ &nbsp;Linguagens e Paradigmas:</h3>
+<p>
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/> 
+  <img src="https://img.shields.io/badge/POO-Programming%20OOP-blue?style=for-the-badge&logo=apachespark&logoColor=white"/> 
+</p>
+
+<h3>🛢️ &nbsp;Banco de Dados:</h3>
+<p>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/NoSQL-4DB33D?style=for-the-badge&logo=mongodb&logoColor=white"/> 
+</p>
+
+<h3>🛠️ &nbsp;Ferramentas & DevOps:</h3>
+<p>
+  <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/DBeaver-372923?style=for-the-badge&logo=dbeaver&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/CI%2FCD%20with-GitHub%20Actions-blue?style=for-the-badge&logo=githubactions&logoColor=white"/>
+</p>
+
+<h3>🌐 &nbsp;APIs & Segurança:</h3>
+<p>
+  <img src="https://img.shields.io/badge/RESTful-009688?style=for-the-badge&logo=rest&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=jsonwebtokens&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/CORS-orange?style=for-the-badge&logo=fastapi&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/OAuth2-3C79A5?style=for-the-badge&logo=auth0&logoColor=white"/> 
+</p>
+
+<h3>🧪 &nbsp;Testes:</h3>
+<p>
+  <img src="https://img.shields.io/badge/jUnit-25A162?style=for-the-badge&logo=junit5&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/Mockito-6DB33F?style=for-the-badge&logo=java&logoColor=white"/> 
+</p>
+
+<h3>🌎 &nbsp;Idiomas:</h3>
+<p>
+  <img src="https://img.shields.io/badge/Português-Nativo-green?style=for-the-badge&logo=googletranslate&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/Inglês-B1-blue?style=for-the-badge&logo=googletranslate&logoColor=white"/> 
+</p>
 
 <h3>⚙️ &nbsp;Front End:</h3>
 <p>
