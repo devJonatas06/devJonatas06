@@ -38,7 +38,7 @@
 
   <!-- Stats -->
   <div>
-     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=devJonatas06&locale=en&hide_title=false&layout=compact&card_width=900&langs_count=8&theme=nightowl&hide_border=true" height="250" alt="languages graph" /> 
+     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=devJonatas06&locale=en&hide_title=false&layout=compact&card_width=830&langs_count=8&theme=nightowl&hide_border=true" height="250" alt="languages graph" /> 
   </div>
 
 </div>
