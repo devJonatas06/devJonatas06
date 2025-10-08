@@ -4,39 +4,46 @@
 <div align="center" style="display: flex; align-items: flex-start; gap: 50px; flex-wrap: wrap;">
 
   <!-- Techs -->
- <div align="center">
-  <img src="https://skillicons.dev/icons?i=java" height="50" alt="Java" />
+<div align="center">
+  <!-- Linguagens -->
+  <img src="https://skillicons.dev/icons?i=java" height="40" alt="Java" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=py" height="50" alt="Python" />
-  <img width="24" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="50" alt="MySQL" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=postgres" height="50" alt="PostgreSQL" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mongodb" height="50" alt="NoSQL" />
-  <img width="24" />
-  <img src="https://skillicons.dev/icons?i=git" height="50" alt="Git" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=github" height="50" alt="GitHub" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=maven" height="50" alt="Maven" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=docker" height="50" alt="Docker" />
-  <img width="12" />
-  <img src="https://raw.githubusercontent.com/wiki/dbeaver/dbeaver/images/dbeaver-head.png" height="50" alt="DBeaver" style="border-radius: 8px;" />
-  <img width="24" />
-  <img src="https://skillicons.dev/icons?i=spring" height="50" alt="Spring Boot" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=hibernate" height="50" alt="Hibernate" />
-  <img width="12" />
-  <img width="24" />
-  <img src="https://skillicons.dev/icons?i=postman" height="50" alt="Postman" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=rabbitmq" height="50" alt="RabbitMQ" />
+  <img src="https://skillicons.dev/icons?i=py" height="40" alt="Python" />
   
- 
-</div>
+  <!-- Bancos de Dados -->
+  <img width="24" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="MySQL" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="PostgreSQL" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="NoSQL" />
+  
+  <!-- Ferramentas -->
+  <img width="24" />
+  <img src="https://skillicons.dev/icons?i=git" height="40" alt="Git" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=github" height="40" alt="GitHub" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=maven" height="40" alt="Maven" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=docker" height="40" alt="Docker" />
+  <img width="12" />
+  <img src="https://raw.githubusercontent.com/wiki/dbeaver/dbeaver/images/dbeaver-head.png" height="40" alt="DBeaver" style="border-radius: 8px;" />
+  
+  <!-- Frameworks -->
+  <img width="24" />
+  <img src="https://skillicons.dev/icons?i=spring" height="40" alt="Spring Boot" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=hibernate" height="40" alt="Hibernate" />
+  <img width="12" />
+  <!-- APIs -->
+  <img width="24" />
+  <img src="https://skillicons.dev/icons?i=postman" height="40" alt="Postman" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=rabbitmq" height="40" alt="RabbitMQ" />
+  
 
+</div> 
 
 
   <!-- Stats -->
