@@ -16,7 +16,7 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="PostgreSQL" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="NoSQL" />
+  <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="mongodb" />
   
   <!-- Ferramentas -->
   <img width="24" />
@@ -27,8 +27,7 @@
   <img src="https://skillicons.dev/icons?i=maven" height="40" alt="Maven" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=docker" height="40" alt="Docker" />
-  <img width="12" />
-  <img src="https://raw.githubusercontent.com/wiki/dbeaver/dbeaver/images/dbeaver-head.png" height="40" alt="DBeaver" style="border-radius: 8px;" />
+
   
   <!-- Frameworks -->
   <img width="24" />
